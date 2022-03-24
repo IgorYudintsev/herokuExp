@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  /*text-align: center;*/
+  display: flex;
+  padding: 30px;
+}
+
+.Body{
+  display: flex;
 }
 
 .App-logo {
